@@ -1,9 +1,8 @@
-```markdown
 # 🌐 my-first-static-web-app
 
 ## 🚀 Deploying a Static Website to Azure Using GitHub Actions
 
-This project demonstrates how to deploy a static HTML website using **Azure Static Web Apps** and **GitHub Actions**. The process involves integrating your GitHub repository with Azure and setting up an automated CI/CD pipeline.
+This project demonstrates how to deploy a static HTML website using Azure Static Web Apps and GitHub Actions. The process involves integrating your GitHub repository with Azure and setting up an automated CI/CD pipeline.
 
 > 🔗 Based on [Microsoft Docs – Get Started with Azure Static Web Apps](https://learn.microsoft.com/en-us/azure/static-web-apps/get-started-portal?tabs=vanilla-javascript&pivots=github)
 
